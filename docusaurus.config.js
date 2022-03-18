@@ -8,14 +8,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'New Wheel Documentation',
   tagline: 'Documentation',
-  url: 'https://roleplayrevisited.github.io/dev-docs/',
-  baseUrl: '/',
+  url: 'https://roleplayrevisited.github.io',
+  baseUrl: '/dev-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'RoleplayRevisited', // Usually your GitHub org/user name.
   projectName: `dev-docs`, // Usually your repo name.
-  trailingSlash: false,
+  deploymentBranch: 'main',
+  trailingSlash: true,
 
   presets: [
     [
