@@ -15,6 +15,7 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'RoleplayRevisited', // Usually your GitHub org/user name.
   projectName: `dev-docs`, // Usually your repo name.
+  trailingSlash: false,
 
   presets: [
     [
