@@ -15,7 +15,6 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'RoleplayRevisited', // Usually your GitHub org/user name.
   projectName: `dev-docs`, // Usually your repo name.
-  deploymentBranch: 'main',
   trailingSlash: true,
 
   presets: [
@@ -73,7 +72,7 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: '/docs/intro',
+                to: '/docs/welcome',
               },
             ],
           },
