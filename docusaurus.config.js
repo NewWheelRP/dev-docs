@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
 	title: "New Wheel Documentation",
 	tagline: "Documentation",
-	url: "https://newwheel.github.io",
+	url: "https://newwheelrp.github.io",
 	baseUrl: "/dev-docs/",
 	onBrokenLinks: "throw",
 	onBrokenMarkdownLinks: "warn",
