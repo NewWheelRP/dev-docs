@@ -2,6 +2,8 @@
 title: "Static Methods"
 ---
 
+**IMPORTANT || This is for dev only, and will only work from within the NewWheel resource itself\***
+
 ### Load
 
 The load method is used to convert a data object retrieved from the database to a new Character instance

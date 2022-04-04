@@ -6,5 +6,5 @@ Returns the players rockstar license
 
 ```ts
 // returns license: string
-character.getLicense();
+player.getLicense();
 ```
